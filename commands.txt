@@ -1,0 +1,25 @@
+(a) man :- It displays how to use a command in Linux. It is like the user manual of
+the command.
+(b) who :- Displays who logged into our system with username , date and time.
+(c) cat :- It displays the content of the file. e.g. cat hello.c
+(d) cd :- used to change the directory
+(e) cp :- to copy a file from source to destination
+(f) ps:- it produces a list of currently running process on the computer
+(g) ls :- diplays the content inside a folder/directory
+(h) mv :- move a file from source to destination
+(i) rm :- used to rename the file
+(j) mkdir :- used to make the directory
+(k) rmdir :- used to remove the directory
+(l) echo :- it is used to display a line of text
+(m) more :- it is used to display the complete content of the file
+(n) date :- displays date &amp; time
+(o) time :- it displays the resource used by the command
+(p) kill :- to destroy a running process
+(q) history :- displays previously used command in a session
+(r) chmod :- to change the permission to access a file/directory
+(s) chown :- to change the owner of the file
+(t) finger :- gives information about the users of the computer
+(u) pwd :- displays the present working directory
+(v) cal :- displays the calendar
+(w) logout :- used to logout the session
+(x) shutdown :- used to shutdown the computer
